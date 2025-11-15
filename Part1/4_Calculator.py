@@ -29,4 +29,9 @@
 # 4 - 6 = -2
 
 # Write your code here:
-
+number  = int(input("Number 1:"))
+number  = int(input("Number 2:"))
+operation = int(input("Operation:"))
+if operation==multiply:
+    print(number*number)
+    

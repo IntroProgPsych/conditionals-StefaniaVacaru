@@ -9,3 +9,6 @@
 # Orwell
 
 # Write your code here:
+year = int(input("Type year:"))
+if year==1984:
+   print("Orwell") 
